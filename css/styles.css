@@ -1,0 +1,54 @@
+/* Цвета
+#2196F3 accent-color
+
+#000000 logo-black
+
+#212121  nav-black
+
+#757575 address-nav-color
+
+#212121 main-title-color
+#757575 main-text-color
+
+#FFFFFF backgroung
+#F5F4FA secondary-backgroung
+
+#2F303A dark back
+
+rgba(255, 255, 255, 0.6) footer-address-color
+
+Fonts:
+Raleway
+bold 700
+
+Roboto
+font-weight: 500
+font-weight: 900
+bold 700
+normal 400
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+
+*/
+
+:root {
+  /* основные шрифты */
+  --main-font: "Roboto", sans-serif;
+  --logo-font: "Raleway", sans-serif;
+  /* основные цвета */
+  --main-title-color: #212121;
+  --main-text-color: #757575;
+  --accent-colol: #2196f3;
+  --main-background-color: #ffffff;
+  --secondary-background-color: #f5f4fa;
+
+  /* цвета логотипа */
+  --logo-light-theme-color: #000000;
+  --logo-dark-theme-color: #ffffff;
+  /* цвета футера */
+  --dark-theme-color: #ffffff;
+  --dark-theme-secondary-color: rgba(255, 255, 255, 0.6);
+  --dark-theme-background-color: #2f303a;
+}
