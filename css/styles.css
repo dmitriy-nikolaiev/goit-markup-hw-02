@@ -203,18 +203,18 @@ clients-list-item-link:focus {
 
 .button-filter-inactive {
   color: var(--main-title-color);
-  background: var(--secondary-background-color);
+  background-color: var(--secondary-background-color);
 }
 
 .button-filter:hover,
 .button-filter:focus {
   color: var(--main-background-color);
-  background: var(--accent-color);
+  background-color: var(--accent-color);
 }
 
 .button-filter-active {
   color: var(--main-background-color);
-  background: var(--accent-color);
+  background-color: var(--accent-color);
 }
 
 /* проекты */
